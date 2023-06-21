@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zxf
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning rust/cmake/vue
 - 📫 How to reach me zhuxiufeng.com
 
 <!---
